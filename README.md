@@ -1,7 +1,5 @@
-## <h1> Hi! Welcome to my profile.</h1>
-## <h2> Warning: May contain traces of genius (and bugs). </h2>
-
-
+# <h1> Hi! Sushil here👋</h1>
+# <h2> Warning: May contain traces of genius (and bugs). </h2>
 
 Here are some ideas to get you started:
 
