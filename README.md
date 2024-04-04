@@ -1,5 +1,5 @@
 ## <h1>Hi! Sushil here👋 </h1> 
-<h2>⚠️May contain traces of genius (and bugs).🪲<br>🧑‍💻Always learning, always coding.☄️</h2>
+<h2>⚠️May contain traces of genius (and bugs).🪲<br><br>🧑‍💻Always learning, always coding.☄️</h2>
 
 - 🏫 B.Tech @ Lovely Professional University. Let's code something awesome together! 🇮🇳 🧑‍💻
 - 🌱 I’m currently learning 
