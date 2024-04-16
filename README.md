@@ -1,6 +1,7 @@
 ## <h1>Hi! Sushil here👋 </h1> 
-<h2>⚠️May contain traces of genius (and bugs).🪲
+<h2>⚠️May contain traces of genius (and bugs).🪲<br><br>
 
+## About
 - 🏫 B.Tech @ Lovely Professional University. Let's code something awesome together! 🇮🇳 🧑‍💻
 - 🌱 I’m currently learning 
 - 🤔 I’m looking for help with ...
