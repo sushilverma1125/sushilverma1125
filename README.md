@@ -8,3 +8,4 @@
 - 🤔 Open to collaboration! Let's build something amazing together. Reach out if you need a teammate!" 🚀💻  <br>
 - 📫 How to reach me: sushilverma1125@gmail.com 📧<br>
 
+![Snake workflow](snake-workflow.svg)
