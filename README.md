@@ -3,12 +3,13 @@
 <h2 align="center">🪲May contain traces of genius (and bugs).🪲<br></h2>
 
 
-<div align="center">
- I’m currently learning DSA & Development 🧑‍💻<br>
-How to reach me: <a href="mailto:sushilverma1125@gmail.com">sushilverma1125@gmail.com</a> 📧<br>
-B.Tech @ Lovely Professional University. Let's code something awesome together! 💻 <br>
- Open to collaboration! Let's build something amazing together. Reach out if you need a teammate!" 🌱  <br>
+<div align="center" style="font-size: 20px;">
+  <p>I’m currently learning DSA & Development 🧑‍💻<br>
+  How to reach me: <a href="mailto:sushilverma1125@gmail.com">sushilverma1125@gmail.com</a> 📧<br>
+  B.Tech @ Lovely Professional University. Let's code something awesome together! 💻 <br>
+  Open to collaboration! Let's build something amazing together. Reach out if you need a teammate!" 🌱  </p>
 </div>
+
 <br>
 <div align="center"> 
   <a href="https://linkedin.com/in/sushilverma1125" target="_blank">
