@@ -3,7 +3,7 @@
 <h2 align="center">🪲May contain traces of genius (and bugs).🪲<br></h2>
 
 
-<div align="center" >
+<div align="center" style="font-size: 20px;">
   <p>I’m currently learning DSA & Development 🧑‍💻<br>
   How to reach me: <a href="mailto:sushilverma1125@gmail.com">sushilverma1125@gmail.com</a> 📧<br>
   B.Tech @ Lovely Professional University. Let's code something awesome together! 💻 <br>
