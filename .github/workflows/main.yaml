@@ -18,3 +18,6 @@ jobs:
           actionsToken: ${{ secrets.GITHUB_TOKEN }}
           runWorkflow: ${{ github.workflow }}
           outputFile: snake-workflow.svg
+
+      - name: Copy SVG to Root Directory
+        run: mv snake-workflow.svg $GITHUB_WORKSPACE/snake-workflow.svg
