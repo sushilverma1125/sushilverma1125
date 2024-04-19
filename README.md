@@ -58,10 +58,6 @@ B.Tech @ Lovely Professional University. Let's code something awesome together! 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sushilverma1125/sushilverma1125/output/github-contribution-grid-snake.svg" /> -->
-
-
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sushilverma1125/sushilverma1125/output/snake.svg" />
 </div>
 <img style="float: left;" src="https://komarev.com/ghpvc/?username=sushilverma1125&color=blue" alt="Profile views">
