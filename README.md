@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome aboard! This is Sushil's GitHub hub. 🚀</h1> 
+<h1 align="center">👋 Welcome aboard! This is Sushil's GitHub hub. 🚀<br> 
 
-<h2 align="center">🪲 May contain traces of genius (and bugs). 🪲</h2>
+🪲 May contain traces of genius (and bugs). 🪲</h1>
 
 <div align="center" style="font-size: 18px;">
   <p>I’m currently learning DSA & Development 🧑‍💻<br>
