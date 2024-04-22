@@ -3,7 +3,7 @@
 🪲 May contain traces of genius (and bugs). 🪲</h1>
 
 <div align="center" style="font-size: 18px;">
-  <p>I’m currently learning **DSA** & **Development** 🧑‍💻<br>
+  <p>I’m currently learning <b>DSA</b> & <b>Development</b> 🧑‍💻<br>
   How to reach me: <a href="mailto:sushilverma1125@gmail.com">sushilverma1125@gmail.com</a> 📧<br>
   B.Tech @ Lovely Professional University. Let's code something awesome together! 💻 <br>
   Open to collaboration! Let's build something amazing together. Reach out if you need a teammate! 🌱</p>
