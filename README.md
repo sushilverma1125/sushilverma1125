@@ -53,12 +53,6 @@
 
 <br>
 
-<div align="center"> 
-  <h2>⚡ Stats ⚡</h2>
-  
-  ![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilverma1125&show_icons=true&theme=radical)
-</div>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sushilverma1125/sushilverma1125/output/snake.svg" />
